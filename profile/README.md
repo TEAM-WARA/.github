@@ -13,6 +13,7 @@
 [2023 창의융합형 인재양성 공유-협업 페스티벌 공모전](http://www.infoethics.or.kr/main?tpf=board/list&board_code=1&category=)
 - 한국 정보통신 윤리학회 주최
 - `OFFLOAD` : [https://github.com/wara-capstone/OFFLOAD]
+- 'GOW' : [https://github.com/wara-capstone/GOWO]
 
 
 ## 논문
