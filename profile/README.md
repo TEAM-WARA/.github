@@ -27,6 +27,13 @@
 
 ## CICD 시나리오 구현
 
+### 시나리오
 
+<img width="955" alt="스크린샷 2023-11-27 오후 8 09 23" src="https://github.com/wara-capstone/.github/assets/122252160/509b9382-6ee4-4c1c-9fb9-c9df6d8ff0cc">
 
+<img width="957" alt="스크린샷 2023-11-27 오후 8 09 40" src="https://github.com/wara-capstone/.github/assets/122252160/b3700925-d9b0-46e3-bbac-4ec58e67b2b5">
+
+<img width="954" alt="스크린샷 2023-11-27 오후 8 09 32" src="https://github.com/wara-capstone/.github/assets/122252160/ad28592b-75d5-4b8d-8ab3-665e93a86d5f">
+
+<img width="959" alt="스크린샷 2023-11-27 오후 8 09 52" src="https://github.com/wara-capstone/.github/assets/122252160/be8b8808-1115-465f-a4a1-9e903aae076f">
 
