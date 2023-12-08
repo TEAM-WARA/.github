@@ -1,4 +1,4 @@
-# 캡스톤 디자인 (1)
+# TEAM - WARA
 
 ## 팀 구성
 
@@ -7,6 +7,12 @@
 |프로필 | ![창의](https://github.com/wara-capstone/.github/assets/122252160/edb21fcc-2e53-4473-a00e-acdc132ff41a) | ![민재](https://github.com/wara-capstone/.github/assets/122252160/daaae0dd-acd4-41ca-9e66-dd676f699d82) | ![종현](https://github.com/wara-capstone/.github/assets/122252160/1f74bd06-e052-4668-ad57-0088dbe5172e) | ![민규](https://github.com/wara-capstone/.github/assets/122252160/0559e2f4-9356-4df9-b373-a06030bc0abb) | ![세민](https://github.com/wara-capstone/.github/assets/122252160/e6450bb0-f0be-4a70-942a-3aa3a05732c5) | ![지후](https://github.com/wara-capstone/.github/assets/122252160/7f00dbce-2f34-4194-a254-b6a5f25f4eba) | ![채림](https://github.com/wara-capstone/.github/assets/122252160/488f5826-eb9d-492a-9bc6-8df43a26b5fb) |
 |기술 스택 |  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> | <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> |  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> |  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>| <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>| <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>|
 |분류 | 백엔드| 백엔드| 백엔드| 백엔드| 프론트엔드| 프론트엔드| 프론트엔드|
+
+## ON & OFF
+
+`Youtube`
+[![CICD](http://img.youtube.com/vi/IlgYfPwYH28?si=X43PpzRk3vZKJy6W/0.jpg)](https://youtu.be/IlgYfPwYH28?si=X43PpzRk3vZKJy6W) 
+
 
 ## 공모전
 
