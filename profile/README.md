@@ -26,13 +26,13 @@
 - `스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구`
 
 ## CICD 시나리오 구현
-
-### 시나리오  
+ 
 
 #### CICD 시나리오 발표 영상  
   
 [![CICD](http://img.youtube.com/vi/jJs0JN3OdKk/0.jpg)](https://youtu.be/jJs0JN3OdKk)  
-  
+
+### 시나리오 
 
 <img width="955" alt="스크린샷 2023-11-27 오후 8 09 23" src="https://github.com/wara-capstone/.github/assets/122252160/509b9382-6ee4-4c1c-9fb9-c9df6d8ff0cc">
 
