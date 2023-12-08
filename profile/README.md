@@ -11,7 +11,7 @@
 # ON & OFF
 
 `Youtube`  
-[![ON&OFF](http://img.youtube.com/vi/X43PpzRk3vZKJy6W/0.jpg)](https://youtu.be/IlgYfPwYH28?si=X43PpzRk3vZKJy6W) 
+[![ON&OFF](http://img.youtube.com/vi/IlgYfPwYH28/0.jpg)](https://youtu.be/IlgYfPwYH28?si=X43PpzRk3vZKJy6W) 
 
 
 ## 공모전
