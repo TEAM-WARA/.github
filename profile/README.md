@@ -27,7 +27,10 @@
 
 ## CICD 시나리오 구현
 
-### 시나리오
+### 시나리오  
+  
+[![CICD](http://img.youtube.com/vi/jJs0JN3OdKk/0.jpg)](https://youtu.be/jJs0JN3OdKk)  
+  
 
 <img width="955" alt="스크린샷 2023-11-27 오후 8 09 23" src="https://github.com/wara-capstone/.github/assets/122252160/509b9382-6ee4-4c1c-9fb9-c9df6d8ff0cc">
 
