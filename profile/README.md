@@ -28,6 +28,8 @@
 ## CICD 시나리오 구현
 
 ### 시나리오  
+
+#### CICD 시나리오 발표 영상  
   
 [![CICD](http://img.youtube.com/vi/jJs0JN3OdKk/0.jpg)](https://youtu.be/jJs0JN3OdKk)  
   
