@@ -11,11 +11,10 @@
 # ON & OFF
 
 `Youtube`  
-<div width="256" height="256">
+<div width="256" height="256">  
 [![ON&OFF](logo.png)](https://youtu.be/IlgYfPwYH28?si=X43PpzRk3vZKJy6W) 
 </div>
 
-<iframe width="560" height="315" src="https://youtu.be/IlgYfPwYH28?si=X43PpzRk3vZKJy6W" frameborder="0" allowfullscreen></iframe>
 
 ## 공모전
 
