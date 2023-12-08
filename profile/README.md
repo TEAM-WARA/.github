@@ -11,9 +11,7 @@
 # ON & OFF
 
 `Youtube`  
-<a href="https://youtu.be/IlgYfPwYH28">
-    <img src="logo.png" alt="ON&OFF" width="256" height="256"/>
-</a>
+[![ON & OFF](http://img.youtube.com/vi/IlgYfPwYH28/0.jpg)](https://www.youtube.com/watch?v=IlgYfPwYH28)  
 
 
 
@@ -39,7 +37,7 @@
 
 #### CICD 시나리오 발표 영상  
   
-[![CICD](http://img.youtube.com/vi/jJs0JN3OdKk/0.jpg)](https://youtu.be/jJs0JN3OdKk)  
+[![CICD](http://img.youtube.com/vi/_QqKRyR3CM0/0.jpg)](https://www.youtube.com/watch?v=_QqKRyR3CM0)  
 
 ### 시나리오 
 
