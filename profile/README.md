@@ -11,9 +11,10 @@
 # ON & OFF
 
 `Youtube`  
-<div width="256" height="256">  
-[![ON&OFF](logo.png)](https://youtu.be/IlgYfPwYH28?si=X43PpzRk3vZKJy6W) 
-</div>
+<a href="https://youtu.be/IlgYfPwYH28">
+    <img src="logo.png" alt="ON&OFF" width="256" height="256"/>
+</a>
+
 
 
 ## 공모전
