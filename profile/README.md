@@ -15,6 +15,8 @@
 [![ON&OFF](logo.png)](https://youtu.be/IlgYfPwYH28?si=X43PpzRk3vZKJy6W) 
 </div>
 
+<iframe width="560" height="315" src="https://youtu.be/IlgYfPwYH28?si=X43PpzRk3vZKJy6W" frameborder="0" allowfullscreen></iframe>
+
 ## 공모전
 
 [2023 창의융합형 인재양성 공유-협업 페스티벌 공모전](http://www.infoethics.or.kr/main?tpf=board/list&board_code=1&category=)
