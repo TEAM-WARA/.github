@@ -1,6 +1,6 @@
 # TEAM - WARA
 
-## 팀 구성
+## 📌 팀 구성
 
 |이름 | [이창의](https://github.com/changuii)| [이민재](https://github.com/mimijae) | [이종현](https://github.com/2-jjong) | [오민규](https://github.com/kormk) | [류세민](https://github.com/ryusemin) | [김지후](https://github.com/jihukimme) | [한채림](https://github.com/cozyrim) |
 | :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-: |
@@ -10,18 +10,17 @@
 
 # ON & OFF
 
-## 기술 스택
+## 📌 기술 스택
 
-![techStack](techStack.png)
+![techStack](https://github.com/TEAM-WARA/.github/assets/122252160/748af6b9-373d-48d7-ba94-f0f904fee965)
 
-
-## 홍보 영상
+## 📌 홍보 영상
 `Youtube`  
 [![ON & OFF](http://img.youtube.com/vi/IlgYfPwYH28/0.jpg)](https://www.youtube.com/watch?v=IlgYfPwYH28)  
 
 
 
-## 공모전
+## 📌 공모전
 
 [2023 창의융합형 인재양성 공유-협업 페스티벌 공모전](http://www.infoethics.or.kr/main?tpf=board/list&board_code=1&category=)
 - 한국 정보통신 윤리학회 주최
@@ -29,7 +28,7 @@
 - 'GOW' : [https://github.com/wara-capstone/GOWO]
 
 
-## 논문
+## 📌 논문
 
 [대한전자공학회 2023년도 추계학술대회](https://conf.theieie.org/2023f/)
 - `마이크로서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석`
@@ -38,7 +37,7 @@
 [한국 정보기술 학회 2023년도 추계종합학술대회](https://ki-it.or.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/11910058)
 - `스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구`
 
-## CICD 시나리오 구현
+## 📌 CICD 시나리오 구현
  
 
 #### CICD 시나리오 발표 영상  
