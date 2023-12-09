@@ -12,7 +12,7 @@
 
 ## 📌 기술 스택
 
-![techStack](https://github.com/TEAM-WARA/.github/assets/122252160/748af6b9-373d-48d7-ba94-f0f904fee965)
+![ON   OFF](https://github.com/TEAM-WARA/.github/assets/122252160/edca641b-2b3b-41bf-8617-e353fa06b5c8)
 
 ## 📌 홍보 영상
 `Youtube`  
