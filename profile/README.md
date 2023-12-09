@@ -10,6 +10,12 @@
 
 # ON & OFF
 
+## 기술 스택
+
+![techStack](techStack.png)
+
+
+## 홍보 영상
 `Youtube`  
 [![ON & OFF](http://img.youtube.com/vi/IlgYfPwYH28/0.jpg)](https://www.youtube.com/watch?v=IlgYfPwYH28)  
 
