@@ -10,6 +10,11 @@
 
 # ON & OFF
 
+## 📌 시스템 아키텍처
+
+<img width="768" alt="image" src="https://github.com/TEAM-WARA/.github/assets/127816292/ce419bb7-6af5-4049-aa27-5ab1337a72ab">
+
+
 ## 📌 기술 스택
 
 ![ON   OFF](https://github.com/TEAM-WARA/.github/assets/122252160/edca641b-2b3b-41bf-8617-e353fa06b5c8)
