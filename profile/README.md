@@ -8,20 +8,37 @@
 |기술 스택 |  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> | <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> |  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> |  <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> | <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>| <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>| <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>|
 |분류 | 백엔드| 백엔드| 백엔드| 백엔드| 프론트엔드| 프론트엔드| 프론트엔드|
 
+## ON & OFF
+[ON & OFF](https://github.com/TEAM-WARA/ON-OFF)
+
 ## 📌 공모전
 
 [2023 창의융합형 인재양성 공유-협업 페스티벌 공모전](http://www.infoethics.or.kr/main?tpf=board/list&board_code=1&category=)
 - 한국 정보통신 윤리학회 주최
-- `OFFLOAD` : [https://github.com/wara-capstone/OFFLOAD]
-- 'GOW' : [https://github.com/wara-capstone/GOWO]
+- [OFFLOAD](https://github.com/TEAM-WARA/OFFLOAD)
+- [GOW](https://github.com/TEAM-WARA/GOWO)
 
+[2024 열린데이터광장 공공데이터 활용 창업경진대회](https://data.seoul.go.kr/together/cpthb/cpthbDetail.do)
+- [poopchelinGuide](https://github.com/PoopchelinGuide)
 
 ## 📌 논문
 
+### 2023
 [대한전자공학회 2023년도 추계학술대회](https://conf.theieie.org/2023f/)
 - `마이크로서비스 아키텍처 설계 및 구축을 위한 가상화 기술별 성능 비교 분석`
 - `딥보이스를 이용한 보이스피싱의 대응방안을 위한 음성 주파수 분석`
 
 [한국 정보기술 학회 2023년도 추계종합학술대회](https://ki-it.or.kr/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/11910058)
 - `스타트업을 위한 계층화 아키텍처 기반 최저비용 클라우드 아키텍처 연구`
+
+### 2024
+
+[2024년도 한국멀티미디어학회 춘계학술발표대회](https://kmms.or.kr/87)
+- `지능형 차량 시스템을 위한 향상된 이미지 처리 기법을 이용한 차선 검출 연구`
+
+[2024년도 대한전자공학회 하계종합학술대회](https://conf.theieie.org/2024s/)
+- `의료 환경에서의 Fog Computing을 위한 인증과 키 합의 스키마 보안 분석 및 제안`
+
+[한국정보기술학회 2024년도 하계종합학술대회](https://ki-it.or.kr/conference/2024)
+- `소상공인을 위한 온-오프라인 통합 패션 플랫폼 구현`
 
